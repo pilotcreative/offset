@@ -1,6 +1,6 @@
 {
   "name": "offset",
-  "repo": "timoxley/offset",
+  "repo": "porada/offset",
   "description": "Get offset of a DOM Element or Range within the document",
   "version": "1.0.2",
   "keywords": ["coordinates"],

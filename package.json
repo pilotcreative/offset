@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timoxley/offset.git"
+    "url": "https://github.com/porada/offset.git"
   },
   "bugs": {
-    "url": "https://github.com/timoxley/offset/issues"
+    "url": "https://github.com/porada/offset/issues"
   },
-  "homepage": "https://github.com/timoxley/offset",
+  "homepage": "https://github.com/porada/offset",
   "main": "index.js",
   "contributors": "Nathan Rajlich",
   "directories": {
