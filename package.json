@@ -7,7 +7,7 @@
     "coordinates"
   ],
   "dependencies": {
-    "dom-support": "https://github.com/porada/dom-support#master",
+    "dom-support": "https://github.com/pilotcreative/dom-support#master",
     "get-document": "0.1.0",
     "within-element": "0.1.0"
   },
@@ -18,12 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/porada/offset.git"
+    "url": "https://github.com/pilotcreative/offset.git"
   },
-  "bugs": {
-    "url": "https://github.com/porada/offset/issues"
-  },
-  "homepage": "https://github.com/porada/offset",
   "main": "index.js",
   "contributors": "Nathan Rajlich",
   "directories": {

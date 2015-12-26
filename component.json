@@ -1,11 +1,11 @@
 {
   "name": "offset",
-  "repo": "porada/offset",
+  "repo": "pilotcreative/offset",
   "description": "Get offset of a DOM Element or Range within the document",
   "version": "1.0.2",
   "keywords": ["coordinates"],
   "dependencies": {
-    "porada/dom-support": "master",
+    "pilotcreative/dom-support": "master",
     "component/get-document": "0.1.0",
     "component/within-element": "0.1.0"
   },
